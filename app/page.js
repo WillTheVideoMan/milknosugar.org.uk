@@ -8,6 +8,7 @@ export default function Home() {
         className={styles.logo}
         src="/milknosugar.png"
         width={350}
+        height={350}
         alt="Milk No Sugar Logo"
       />
     </main>
