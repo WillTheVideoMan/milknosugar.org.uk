@@ -7,8 +7,8 @@ export default function Home() {
       <Image
         className={styles.logo}
         src="/milknosugar.png"
-        width={350}
-        height={350}
+        width={300}
+        height={300}
         alt="Milk No Sugar Logo"
       />
     </main>
