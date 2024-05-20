@@ -11,7 +11,9 @@ module.exports = {
     },
     colors: {
       "milk-brown": "#F8F5E6",
+      "milk-black": "#302A0D",
+      "true-black": "#000",
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
 };
